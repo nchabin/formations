@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financements on My New Hugo Site</title>
+    <link>https://nchabin.github.io/formations/financement/</link>
+    <description>Recent content in Financements on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Dec 2023 22:49:46 +0100</lastBuildDate>
+    <atom:link href="https://nchabin.github.io/formations/financement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propos</title>
+      <link>https://nchabin.github.io/formations/financement/a_propos/</link>
+      <pubDate>Mon, 25 Dec 2023 22:49:46 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/financement/a_propos/</guid>
+      <description>Bureau 89 c&amp;rsquo;est : 27 ans d&amp;rsquo;éxperience Plus de 2000 stagiaires formés Un taux de satisfaction de 94 % 49 Stagiaires en 2022 Le Bureau 89 répond à l’ensemble des critères du décret qualité de la formation.&#xA;Déclaré depuis 1996, Bureau 89 est certifié Qualiopi dans le but de réaliser des actions de formation concourant au développement des compétences.&#xA;1- Notre offre : riche, multimodale et actualisée en permanence pour répondre à tous vos besoins !</description>
+    </item>
+    <item>
+      <title>FNE-FORMATION</title>
+      <link>https://nchabin.github.io/formations/financement/fne-formation/</link>
+      <pubDate>Mon, 25 Dec 2023 22:49:46 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/financement/fne-formation/</guid>
+      <description>FNE-FORMATION&#xA;Le FNE-Formation est une aide financière de l’Etat. Son objectif est de favoriser la reprise d’activité des entreprises impactées par la crise sanitaire en investissant dans le développement des compétences de leurs collaborateurs via la formation. Le niveau de prise en charge des coûts de formation varie en fonction de la taille et de la situation de l’entreprise.&#xA;C’EST QUOI ? UNE AIDE DE L’ÉTAT POUR FINANCER LA FORMATION L’objectif du FNE-Formation est de favoriser la reprise d’activité des entreprises impactées par la crise sanitaire en les aidant à financer les actions de formation qui renforcent les compétences et l’employabilité de leurs collaborateurs.</description>
+    </item>
+    <item>
+      <title>Opco</title>
+      <link>https://nchabin.github.io/formations/financement/opco/</link>
+      <pubDate>Mon, 25 Dec 2023 22:49:46 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/financement/opco/</guid>
+      <description>LES OPCO ET ACTIONS COLLECTIVES&#xA;Organisés par branche professionnelle, les OPCO (OPérateurs de COmpétences) se sont substitués aux OPCA (Organismes Paritaires Collecteurs Agréés) en 2019 et ont pour principales missions le financement des contrats en alternance, la prise en charge des actions du plan de développement des compétences des entreprises de moins de 50 salariés et un service de proximité pour les TPE et PME permettant d’améliorer l’information et l’accès de leurs salariés à la formation professionnelle.</description>
+    </item>
+  </channel>
+</rss>

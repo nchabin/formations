@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formation-U-Ms on My New Hugo Site</title>
+    <link>https://nchabin.github.io/formations/formation-u-m/</link>
+    <description>Recent content in Formation-U-Ms on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Dec 2023 22:49:46 +0100</lastBuildDate>
+    <atom:link href="https://nchabin.github.io/formations/formation-u-m/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cni</title>
+      <link>https://nchabin.github.io/formations/formation-u-m/cni/</link>
+      <pubDate>Mon, 25 Dec 2023 22:49:46 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-u-m/cni/</guid>
+      <description>Durée de la formation : 2 jours (14 heures)&#xA;Prix : 1850 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Appréhender les différents secteurs, organisations et métiers de l&amp;rsquo;informatique Connaître les principales infrastructures informatiques Identifier les différentes architectures informatiques Connaître les principales technologies et solutions informatiques Identifier les principaux risques liés à la sécurité Prérequis : Aucune connaissance particulière.&#xA;Programme de la formation : 1 - Introduction : l&amp;rsquo;informatique dans l&amp;rsquo;entreprise Les différents univers informatiques : gestion, industriel, scientifique, embarqué&amp;hellip; Les liens entre les métiers et les infrastructures techniques.</description>
+    </item>
+    <item>
+      <title>Formation Outlook</title>
+      <link>https://nchabin.github.io/formations/formation-u-m/formation_outlook/outlook/</link>
+      <pubDate>Sat, 28 Jan 2023 19:51:10 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-u-m/formation_outlook/outlook/</guid>
+      <description>Durée de la formation : 4 heures&#xA;Objectifs principaux : Ce cours vous permettra de mieux appréhender le logiciel Outlook , que vous soyez débutant ou déjà quelque peu habitué. Vous apprendrez à communiquer par messagerie en créant de nouveaux mails ou en répondant à vos interlocuteurs.&#xA;Prérequis :&#xA;Pour suivre ce cours, vous devez maîtriser les fonctionnalités de base de votre ordinateur. Vous pouvez acquérir ces compétences en consultant le cours Faites vos premiers pas sur ordinateur.</description>
+    </item>
+    <item>
+      <title>Formation Word</title>
+      <link>https://nchabin.github.io/formations/formation-u-m/formation_word/word/</link>
+      <pubDate>Sat, 28 Jan 2023 18:05:35 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-u-m/formation_word/word/</guid>
+      <description>Durée de la formation : 6 heures&#xA;Objectifs principaux :&#xA;Vous allez également réaliser des documents présentés de manière professionnelle en leur appliquant une mise en forme et une mise en page et, enfin, aller plus loin en appliquant une méthodologie simple et efficace vous permettant d’augmenter votre productivité.&#xA;Que ce soit avec le célèbre Word de Microsoft ,** Google Docs** ou bien encore le Writer d’OpenOffice , saisir et présenter vos documents n’aura jamais été aussi simple !</description>
+    </item>
+    <item>
+      <title>Formation PowerPoint</title>
+      <link>https://nchabin.github.io/formations/formation-u-m/formation_powerpoint/powerpoint/</link>
+      <pubDate>Thu, 26 Jan 2023 16:21:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-u-m/formation_powerpoint/powerpoint/</guid>
+      <description>Durée de la formation : 6 heures&#xA;Objectifs principaux :&#xA;Ce cours va faire le tour des fonctionnalités principales des logiciels qui permettent de réaliser des diaporamas.&#xA;Prérequis :&#xA;Il faut un ordinateur et savoir naviguer sur Internet.&#xA;Pour vous aider à acquérir ces compétences, voici deux cours que vous pouvez consulter : &amp;ldquo;Faites vos premiers pas sur ordinateur&amp;rdquo;, &amp;ldquo;Naviguez sur Internet&amp;rdquo; .&#xA;Outil nécessaire : PowerPoint ou Keynote ou OpenOffice Impress</description>
+    </item>
+    <item>
+      <title>Formation Excel</title>
+      <link>https://nchabin.github.io/formations/formation-u-m/formation_excel/excel/</link>
+      <pubDate>Sat, 21 Jan 2023 12:33:59 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-u-m/formation_excel/excel/</guid>
+      <description>Durée de la formation : 6 heures&#xA;Objectifs principaux : Ce cours vous permettra de prendre en main ce logiciel si vous êtes débutant, de mettre en page vos données pour qu&amp;rsquo;elles soient facilement lisibles, et de les manipuler grâce aux formules, aux fonctionnalités de tri, aux tableaux croisés dynamiques, etc. Il vous permettra également de vous préparer à la certification TOSA Excel niveau basique.&#xA;Prérequis : Ce cours vous permet de démarrer de zéro si vous n&amp;rsquo;êtes pas familier avec Excel.</description>
+    </item>
+  </channel>
+</rss>

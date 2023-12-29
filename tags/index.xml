@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>https://nchabin.github.io/formations/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <atom:link href="https://nchabin.github.io/formations/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blue</title>
+      <link>https://nchabin.github.io/formations/tags/blue/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>green</title>
+      <link>https://nchabin.github.io/formations/tags/green/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/green/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>red</title>
+      <link>https://nchabin.github.io/formations/tags/red/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/red/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AZC</title>
+      <link>https://nchabin.github.io/formations/tags/azc/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/azc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CBM</title>
+      <link>https://nchabin.github.io/formations/tags/cbm/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/cbm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>INR</title>
+      <link>https://nchabin.github.io/formations/tags/inr/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/inr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MDK</title>
+      <link>https://nchabin.github.io/formations/tags/mdk/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/mdk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MGF</title>
+      <link>https://nchabin.github.io/formations/tags/mgf/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/mgf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MGH</title>
+      <link>https://nchabin.github.io/formations/tags/mgh/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/mgh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MKV</title>
+      <link>https://nchabin.github.io/formations/tags/mkv/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/mkv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MVP</title>
+      <link>https://nchabin.github.io/formations/tags/mvp/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/mvp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TRM</title>
+      <link>https://nchabin.github.io/formations/tags/trm/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/trm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UN2</title>
+      <link>https://nchabin.github.io/formations/tags/un2/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/un2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MAL</title>
+      <link>https://nchabin.github.io/formations/tags/mal/</link>
+      <pubDate>Mon, 23 Jan 2023 11:00:37 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/mal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>devops</title>
+      <link>https://nchabin.github.io/formations/tags/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>powershell</title>
+      <link>https://nchabin.github.io/formations/tags/powershell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/powershell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://nchabin.github.io/formations/tags/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/tags/windows/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

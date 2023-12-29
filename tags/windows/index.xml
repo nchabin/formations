@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on My New Hugo Site</title>
+    <link>https://nchabin.github.io/formations/tags/windows/</link>
+    <description>Recent content in Windows on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://nchabin.github.io/formations/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PowerShell, automatiser l’administration Windows</title>
+      <link>https://nchabin.github.io/formations/formation-info/atu/atu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/atu/atu/</guid>
+      <description>Durée de la formation : 3 jours (21 heures)&#xA;Prix : 1950 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Ecrire des scripts sous Windows avec PowerShell Gérer les utilisateurs avec des scripts PowerShell Automatiser les tâches d&amp;rsquo;administration sous Windows avec PowerShell Formater les messages de sortie Utiliser les fonctionnalités de traitement en arrière-plan et d&amp;rsquo;administration à distance Prérequis : Bonnes connaissances des systèmes d&amp;rsquo;exploitation Windows.</description>
+    </item>
+    <item>
+      <title>Windows 10, déploiement</title>
+      <link>https://nchabin.github.io/formations/formation-info/wop/wop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/wop/wop/</guid>
+      <description>Durée de la formation : 3 jours (21 heures)&#xA;Prix : 1950 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Mettre en oeuvre les différentes techniques de déploiement de postes Windows 10 Installer et configurer ADK (Kit de déploiement et d&amp;rsquo;évaluation Windows) Installer et personnaliser Windows avec WinPE (Windows PE) Créer et personnaliser des images WIM de Windows 10 Mettre en œuvre un scénario Lite Touch avec MDT Prérequis : Bonnes connaissances de l&amp;rsquo;installation et de l&amp;rsquo;administration de postes Windows (10, 8,7 ou Vista) et de la gestion TCP/IP sous Windows.</description>
+    </item>
+    <item>
+      <title>Windows 10, installation et administration</title>
+      <link>https://nchabin.github.io/formations/formation-info/ioi/ioi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/ioi/ioi/</guid>
+      <description>Durée de la formation : 4 jours (28 heures)&#xA;Prix : 2450 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Connaître les principales nouveautés du nouveau système d&amp;rsquo;exploitation Windows 10 Installer, configurer et paramétrer un ordinateur avec Windows 10 Personnaliser l&amp;rsquo;environnement de travail : ajout de composant sur les consoles MMC, son espace utilisateur Réaliser des tâches d&amp;rsquo;administration courantes avec Windows 10 Installer et désinstaller des programmes avec Windows Prérequis : Connaissances de base en micro-informatique.</description>
+    </item>
+    <item>
+      <title>Windows 10, maintenance et dépannage</title>
+      <link>https://nchabin.github.io/formations/formation-info/won/won/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/won/won/</guid>
+      <description>Durée de la formation : 3 jours (21 heures)&#xA;Prix : 1950 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Acquérir une méthodologie de résolution des problèmes pour Windows 10 Utiliser des outils de maintenance intégrés et des outils tiers Dépanner des problèmes du système, matériel, du réseau, lié à la sécurité ou aux applications Configurer la maintenance automatique Récupérer les informations des clients et des ordinateurs Prérequis : Bonnes connaissances de l&amp;rsquo;administration de postes Windows 10.</description>
+    </item>
+    <item>
+      <title>Windows 10, nouveautés pour administrateurs</title>
+      <link>https://nchabin.github.io/formations/formation-info/ion/ion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/ion/ion/</guid>
+      <description>Durée de la formation : 3 jours (21 heures)&#xA;Prix : 1950 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Connaître les principales nouveautés du système d&amp;rsquo;exploitation Windows 10 Installer, configurer et paramétrer un ordinateur avec Windows 10 Personnaliser l&amp;rsquo;environnement de travail, ajouter des composants sur les consoles MMC Réaliser des tâches d&amp;rsquo;administration courantes avec Windows 10 Utiliser un compte Live dans Windows 10 Prérequis : Bonnes connaissances de l&amp;rsquo;administration de Windows (8, Vista, XP, Seven ou Server 2012/2008 ou 2003).</description>
+    </item>
+    <item>
+      <title>Windows 10, sécurité et performance</title>
+      <link>https://nchabin.github.io/formations/formation-info/wip/wip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/wip/wip/</guid>
+      <description>Durée de la formation : 3 jours (21 heures)&#xA;Prix : 1950 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Connaître les principales fonctions de sécurité de Windows 10 Gérer et déplacer les fichiers cryptés Gérer les droits (ACL) des comptes utilisateurs Limiter l&amp;rsquo;installation d&amp;rsquo;applications non conformes grâce à AppLocker Maîtriser le pare-feu de Windows 10 et ses fonctions avancées Prérequis : Bonnes connaissances de l&amp;rsquo;administration de Windows 10.</description>
+    </item>
+    <item>
+      <title>Windows Server 2016, mise en œuvre et administration</title>
+      <link>https://nchabin.github.io/formations/formation-info/owm/owm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/owm/owm/</guid>
+      <description>Durée de la formation : 4 jours (28 heures)&#xA;Prix : 2450 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Installer, configurer et paramétrer un serveur avec Windows Server 2016 Réaliser des tâches d&amp;rsquo;administration via les nouvelles interfaces et PowerShell Mettre en œuvre la sécurité de l&amp;rsquo;architecture Maintenir et dépanner un serveur : création d&amp;rsquo;une sauvegarde et utilisation d&amp;rsquo;outils de récupération Prérequis : Bonnes connaissances de la gestion de postes Windows (10, 8 ou 7) en réseau.</description>
+    </item>
+  </channel>
+</rss>

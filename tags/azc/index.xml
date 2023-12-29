@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AZC on My New Hugo Site</title>
+    <link>https://nchabin.github.io/formations/tags/azc/</link>
+    <description>Recent content in AZC on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 11:28:13 +0100</lastBuildDate>
+    <atom:link href="https://nchabin.github.io/formations/tags/azc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Administrateur Azure (Microsoft MS AZ-104)</title>
+      <link>https://nchabin.github.io/formations/formation-info/azc/formationazc/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/azc/formationazc/</guid>
+      <description>Durée de la formation : 4j - 28h&#xA;Prix: 3150€ H.T.&#xA;**Objectifs principaux :**Ce cours vous apprendra à gérer les abonnements Azure, à sécuriser les identités, à administrer l’infrastructure, à configurer la mise en réseau virtuelle, à connecter Azure et les sites sur site, à gérer le trafic du réseau, à mettre en œuvre des solutions de stockage, à créer et mettre à l’échelle des machines virtuelles, à mettre en œuvre des applications web et des conteneurs, à sauvegarder et partager des données et à surveiller votre solution.</description>
+    </item>
+  </channel>
+</rss>

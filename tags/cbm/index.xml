@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CBM on My New Hugo Site</title>
+    <link>https://nchabin.github.io/formations/tags/cbm/</link>
+    <description>Recent content in CBM on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 11:28:13 +0100</lastBuildDate>
+    <atom:link href="https://nchabin.github.io/formations/tags/cbm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Client Windows (Microsoft MS MD-100)</title>
+      <link>https://nchabin.github.io/formations/formation-info/cbm/formationcbm/</link>
+      <pubDate>Mon, 23 Jan 2023 11:28:13 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/cbm/formationcbm/</guid>
+      <description>Durée de la formation : 5j - 35h&#xA;Prix: 2990€ H.T.&#xA;Objectifs principaux : Avec cette formation, vous apprendrez à prendre en charge et à configurer les postes de travail Windows dans un environnement d’entreprise. Vous développerez des compétences qui incluent la manière d’installer, de personnaliser et de mettre à jour des systèmes d’exploitation Windows versions 10 et ultérieures. Vous apprendrez également : à gérer le stockage, à configurer la connectivité réseau pour Windows, à sécuriser le système d’exploitation Windows et à protéger les données sur l’appareil.</description>
+    </item>
+  </channel>
+</rss>

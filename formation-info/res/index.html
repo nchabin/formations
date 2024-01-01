@@ -4,11 +4,11 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Windows Server 2019, mise en œuvre et administration">
+<meta name="description" content="Introduction et pratique des réseaux">
 <meta name="author" content="">
 <meta name="generator" content="Hugo 0.121.1">
 
-<title>Wtj | Bureau89 Formations</title>
+<title>Res | Bureau89 Formations</title>
 
 <link rel="stylesheet" href="https://nchabin.github.io/formations/css/styles.min.css">
 <link rel="stylesheet" href="https://nchabin.github.io/formations/css/docs.min.css">
@@ -175,7 +175,7 @@
         <div class="bd-intro pt-2 ps-lg-2">
             <div class="d-md-flex flex-md-row-reverse align-items-center justify-content-between">
                 <div class="mb-3 mb-md-0 d-flex text-nowrap"></div>
-                <h1 class="bd-title mb-0" id="content">Windows Server 2019, mise en œuvre et administration</h1>
+                <h1 class="bd-title mb-0" id="content">Introduction et pratique des réseaux</h1>
             </div>
 
         </div>
@@ -192,14 +192,30 @@
             <div class="collapse bd-toc-collapse" id="tocContents">
                 <nav id="TableOfContents">
   <ul>
-    <li><a href="#programme-de-la-formation-">Programme de la formation :</a></li>
-    <li><a href="#1---architecture-et-installation">1 - Architecture et installation</a></li>
-    <li><a href="#2---outils-dadministration-et-configuration">2 - Outils d&rsquo;administration et configuration</a></li>
-    <li><a href="#3---active-directory">3 - Active Directory</a></li>
-    <li><a href="#4---disques-et-systèmes-de-fichiers">4 - Disques et systèmes de fichiers</a></li>
-    <li><a href="#5---optimisation-performance-et-dépannage">5 - Optimisation, performance et dépannage</a></li>
-    <li><a href="#accessibilité">Accessibilité</a></li>
-    <li><a href="#modalités-dévaluation">Modalités d&rsquo;évaluation</a></li>
+    <li><a href="#1----concepts-et-normalisation-réseaux">1 -  Concepts et normalisation réseaux</a>
+      <ul>
+        <li><a href="#concepts-réseaux">Concepts réseaux</a></li>
+        <li><a href="#principe-de-normalisation">Principe de normalisation</a></li>
+        <li><a href="#les-supports-de-transmissions">Les supports de transmissions</a></li>
+        <li><a href="#les-réseaux-locaux-lan">Les réseaux locaux (LAN)</a></li>
+        <li><a href="#les-différents-matériels-réseaux">Les différents matériels réseaux</a></li>
+        <li><a href="#exemples-de-travaux-pratiques-à-titre-indicatif">Exemples de travaux pratiques (à titre indicatif)</a></li>
+      </ul>
+    </li>
+    <li><a href="#2---les-protocoles-de-communication">2 - Les protocoles de communication</a>
+      <ul>
+        <li><a href="#notions-de-base-des-réseaux-tcpip">Notions de base des réseaux TCP/IP</a></li>
+        <li><a href="#exemples-de-travaux-pratiques-à-titre-indicatif-1">Exemples de travaux pratiques (à titre indicatif)</a></li>
+        <li><a href="#le-routage-ip">Le routage IP</a></li>
+        <li><a href="#exemples-de-travaux-pratiques-à-titre-indicatif-2">Exemples de travaux pratiques (à titre indicatif)</a></li>
+      </ul>
+    </li>
+    <li><a href="#3---concepts-avancés">3 - Concepts avancés</a>
+      <ul>
+        <li><a href="#les-protocoles-et-services-applicatifs-fondamentaux">Les protocoles et services applicatifs fondamentaux</a></li>
+        <li><a href="#exemples-de-travaux-pratiques-à-titre-indicatif-3">Exemples de travaux pratiques (à titre indicatif)</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
             </div>
@@ -210,75 +226,120 @@
         <div class="bd-content ps-lg-2">
             
 
-            <!-- raw HTML omitted -->
-<div class="bd-callout bd-callout-info">
-<p><strong>Durée de la formation :</strong> 4 jours (28 heures)</p>
-<p><strong>Prix :</strong> 2450 € H.T.</p>
-<p><strong>Objectifs principaux :</strong><br>
-À l’issue de la formation, le participant sera en mesure de :</p>
+            <div class="bd-callout bd-callout-info">
+<p><strong>Durée de la formation :</strong> 3 jours (21 heures)</p>
+<p><strong>Prix :</strong> 1830 € H.T.</p>
+<p><strong>Objectifs principaux :</strong></p>
 <ul>
-<li>Appréhender les nouveautés de Windows Serveur 2019</li>
-<li>Installer Windows Serveur 2019 dans ses différentes déclinaisons</li>
-<li>Utiliser Windows Admin Center</li>
-<li>Installer et déployer Active Directory</li>
-<li>Mettre en œuvre ReFS</li>
+<li>Décrire les concepts, la normalisation et la terminologie du réseau</li>
+<li>Installer un réseau physique : hôtes, câbles, switchs, routeurs</li>
+<li>Distinguer et mettre en oeuvre un câblage informatique</li>
+<li>Identifier les adresses IPv4</li>
+<li>Distinguer et mettre en oeuvre un switch et un routeur</li>
+<li>Définir des protocoles de transport</li>
+<li>Mettre en oeuvre les principaux services applicatifs.</li>
 </ul>
-<p><strong>Prérequis :</strong> Bonnes connaissances de la gestion de postes Windows (10, 8 ou 7) en réseau.</p>
+<p><strong>Prérequis :</strong> Aucun.</p>
 
 </div>
 
-<h2 id="programme-de-la-formation-">Programme de la formation :</h2>
-<h2 id="1---architecture-et-installation">1 - Architecture et installation</h2>
+<h1 id="programme-de-la-formation-">Programme de la formation :</h1>
+<h2 id="1----concepts-et-normalisation-réseaux">1 -  Concepts et normalisation réseaux</h2>
+<h3 id="concepts-réseaux">Concepts réseaux</h3>
 <ul>
-<li>Introduction à Windows Server 2019.</li>
-<li>Panorama des nouveautés.</li>
-<li>Les nouveautés de l&rsquo;interface Windows Server 2019.</li>
-<li>Les modes d&rsquo;installation de Windows Server 2019.</li>
-<li>Installation de Windows Server 2019.</li>
-<li><strong>Travaux pratiques :</strong> Installer Windows Server 2019. Installer la version d&rsquo;installation minimale.</li>
+<li>Pourquoi ? Eléments et rôle du réseau</li>
+<li>Pour qui ? Utilisateurs et besoins</li>
+<li>Comment ? Communication, interconnexion et administration</li>
 </ul>
-<h2 id="2---outils-dadministration-et-configuration">2 - Outils d&rsquo;administration et configuration</h2>
+<h3 id="principe-de-normalisation">Principe de normalisation</h3>
 <ul>
-<li>Administrer votre environnement avec le gestionnaire de serveur.</li>
-<li>Déploiement et utilisation du Windows Admin Center (WAC).</li>
-<li>Présentation et utilisation des modules Windows System Insights.</li>
-<li>Les adhérences et interconnexions Azure.</li>
-<li>Les nouveautés de RDS.</li>
-<li><strong>Travaux pratiques :</strong> Déployer les rôles et fonctionnalités. Installation et utilisation de Windows Admin Center.</li>
+<li>Technologies des réseaux : classifications et topologies de réseaux</li>
+<li>Le modèle client / serveur : architecture en tiers</li>
+<li>Le partage des ressources</li>
+<li>Le modèle OSI de l&rsquo;ISO : sept couches et mécanisme d&rsquo;encapsulation</li>
 </ul>
-<h2 id="3---active-directory">3 - Active Directory</h2>
+<h3 id="les-supports-de-transmissions">Les supports de transmissions</h3>
 <ul>
-<li>Les silos et stratégies d&rsquo;authentification.</li>
-<li>La gestion des objets en PowerShell.</li>
-<li>Les prérequis à l&rsquo;installation.</li>
-<li>L&rsquo;installation de l&rsquo;Active Directory.</li>
-<li>Les nouvelles interfaces de gestion des objets.</li>
-<li>Le centre de gestion d&rsquo;administration Active Directory (ADAC).</li>
-<li>Les comptes de services administrés.</li>
-<li>La gestion des accès privilégiés (PAM).</li>
-<li><strong>Travaux pratiques !</strong> Déployer l&rsquo;Active Directory. La gestion des objets en mode graphique et en PowerShell. Déploiement des comptes de services. Déploiement des silos d&rsquo;authentification.</li>
+<li>Types et modes de transmissions</li>
+<li>La paire torsadée et la fibre optique</li>
+<li>Principe et règle de câblage</li>
+<li>Les sans fil : les différents standards</li>
 </ul>
-<h2 id="4---disques-et-systèmes-de-fichiers">4 - Disques et systèmes de fichiers</h2>
+<h3 id="les-réseaux-locaux-lan">Les réseaux locaux (LAN)</h3>
 <ul>
-<li>Storage Migration Services.</li>
-<li>Le système de fichiers ReFS (Resilient File System).</li>
-<li>Configurer les espaces de stockage dans Windows Server 2019.</li>
-<li>Windows Defender Malware Protection.</li>
-<li>La sécurité des fichiers et des dossiers.</li>
-<li><strong>Travaux pratiques :</strong> Déploiement des fonctionnalités de stockage. Utilisation de Storage Migration Services.</li>
+<li>Limites des réseaux physiques</li>
+<li>Choix politiques des constructeurs</li>
+<li>Architecture IEEE : adressage et méthode d&rsquo;accès</li>
+<li>Ethernet et CSMA / CD</li>
+<li>Domaine de collision et domaine de diffusion</li>
+<li>Réseaux locaux sans fil (802.11x)</li>
 </ul>
-<h2 id="5---optimisation-performance-et-dépannage">5 - Optimisation, performance et dépannage</h2>
+<h3 id="les-différents-matériels-réseaux">Les différents matériels réseaux</h3>
 <ul>
-<li>Windows Defender Advanced Threat Protection.</li>
-<li>Les moniteurs de performances.</li>
-<li>Les outils de récupération.</li>
-<li>Les sauvegardes et restaurations du système.</li>
+<li>Les répéteurs et les hubs</li>
+<li>Les ponts et commutateurs</li>
+<li>Les routeurs : concept de passerelle</li>
+<li>Les proxys et firewalls : notions de sécurité</li>
+<li>Architecture Ethernet partagé et Ethernet commuté</li>
 </ul>
-<h2 id="accessibilité">Accessibilité</h2>
-<p>Quant à l’accessibilité aux personnes en situation de handicap, elle dépend du lieu de formation et du type de handicap au regard des modalités d’accompagnement pédagogique (ces aspects sont à évoquer impérativement au cours de l’entretien préalable à toute contractualisation afin de vous orienter au mieux).</p>
-<h2 id="modalités-dévaluation">Modalités d&rsquo;évaluation</h2>
-<p>Le formateur évalue la progression pédagogique du participant tout au long de la formation au moyen de QCM, mises en situation, travaux pratiques…
-Le participant complète également un test de positionnement en amont et en aval pour valider les compétences acquises.</p>
+<h3 id="exemples-de-travaux-pratiques-à-titre-indicatif">Exemples de travaux pratiques (à titre indicatif)</h3>
+<ul>
+<li>Création d&rsquo;un réseau local, câblage, switch et poste de travail</li>
+<li>Configuration d&rsquo;un réseau Wifi</li>
+</ul>
+<h2 id="2---les-protocoles-de-communication">2 - Les protocoles de communication</h2>
+<h3 id="notions-de-base-des-réseaux-tcpip">Notions de base des réseaux TCP/IP</h3>
+<ul>
+<li>Le protocole IP, ARP et ICMP</li>
+<li>L&rsquo;adressage des réseaux logiques</li>
+<li>Unicast, Multicast et Broadcast</li>
+<li>Mode connecté et non connecté</li>
+<li>Fonctionnement des protocoles TCP et UDP</li>
+<li>Notion de numéro de port</li>
+</ul>
+<h3 id="exemples-de-travaux-pratiques-à-titre-indicatif-1">Exemples de travaux pratiques (à titre indicatif)</h3>
+<ul>
+<li>Configuration de poste sous TCP/IP sur un réseau</li>
+<li>Tests de connexion entre les stations</li>
+<li>Exercices d&rsquo;adressage IP</li>
+</ul>
+<h3 id="le-routage-ip">Le routage IP</h3>
+<ul>
+<li>Fonctions du routeur</li>
+<li>Mécanismes de routage</li>
+<li>Etude d&rsquo;une table de routage</li>
+<li>Le problème du routage</li>
+<li>Les principaux protocoles de routage dynamique : RIP2, OSPF, BGP</li>
+<li>La commutation IP</li>
+</ul>
+<h3 id="exemples-de-travaux-pratiques-à-titre-indicatif-2">Exemples de travaux pratiques (à titre indicatif)</h3>
+<ul>
+<li>Exercices de configuration des tables de routage</li>
+<li>Configuration d&rsquo;un routeur</li>
+</ul>
+<h2 id="3---concepts-avancés">3 - Concepts avancés</h2>
+<h3 id="les-protocoles-et-services-applicatifs-fondamentaux">Les protocoles et services applicatifs fondamentaux</h3>
+<ul>
+<li>Le service de nom : DNS</li>
+<li>Rôle et intérêt</li>
+<li>Domaines, zones et enregistrements</li>
+<li>Le service DHCP : principe de fonctionnement</li>
+<li>Étendues, pool et bail</li>
+<li>Panorama des autres protocoles applicatifs</li>
+<li>La gestion de réseau avec TELNET, NTP</li>
+<li>La messagerie SMTP, POP3, IMAP4</li>
+<li>Le transfert de fichier HTTP, FTP</li>
+<li>Le partage avec NFS</li>
+</ul>
+<h3 id="exemples-de-travaux-pratiques-à-titre-indicatif-3">Exemples de travaux pratiques (à titre indicatif)</h3>
+<ul>
+<li>Configuration d&rsquo;un serveur DNS</li>
+<li>Création de zone et d&rsquo;enregistrement DNS</li>
+<li>Configuration et gestion d&rsquo;un serveur DHCP</li>
+<li>Intégration des postes de travail en tant que client DNS et DHCP</li>
+<li>Utilisation du transfert de fichier FTP entre les stations de travail et le serveur FTP</li>
+<li>Connexion en Telnet sur des équipements</li>
+</ul>
 
         </div>
 </div>

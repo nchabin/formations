@@ -5,7 +5,7 @@
     <link>https://nchabin.github.io/formations/formation-info/</link>
     <description>Recent content in Formation-Infoes on Bureau89 Formations</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     <lastBuildDate>Mon, 25 Dec 2023 22:49:46 +0100</lastBuildDate>
     <atom:link href="https://nchabin.github.io/formations/formation-info/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 25 Dec 2023 22:49:46 +0100</pubDate>
       <guid>https://nchabin.github.io/formations/formation-info/pwv/</guid>
       <description>Durée de la formation : 5 jours (35 heures)&#xA;Prix : 2990 € H.T.&#xA;Objectifs principaux :&#xA;À l’issue de la formation, le participant sera en mesure de :&#xA;Connaître les fonctionnalités de Windows PowerShell et les utiliser pour exécuter et rechercher des commandes de base Savoir identifier et exécuter des cmdlets pour l&amp;rsquo;administration des serveurs Travailler avec le pipeline Windows PowerShell Décrire les techniques d’utilisation de pipeline Windows PowerShell Utiliser PSProviders et PSDrives Interroger les informations système à l&amp;rsquo;aide de WMI et CIM Travailler avec des variables, des tableaux et des tables de hachage Écrire des scripts de base dans Windows PowerShell Administrer des ordinateurs à distance avec Windows PowerShell Utiliser des taches d&amp;rsquo;arrière-plan et des taches planifiées Savoir gérer les ressources Azure avec PowerShell Pouvoir gérer les services Microsoft 365 avec PowerShell Prérequis : Expérience des technologies réseau Windows et de leur mise en œuvre, de l&amp;rsquo;administration, de la maintenance et du dépannage de Windows Server et du client Windows.</description>
+    </item>
+    <item>
+      <title>Res</title>
+      <link>https://nchabin.github.io/formations/formation-info/res/</link>
+      <pubDate>Mon, 25 Dec 2023 22:49:46 +0100</pubDate>
+      <guid>https://nchabin.github.io/formations/formation-info/res/</guid>
+      <description>Durée de la formation : 3 jours (21 heures)&#xA;Prix : 1830 € H.T.&#xA;Objectifs principaux :&#xA;Décrire les concepts, la normalisation et la terminologie du réseau Installer un réseau physique : hôtes, câbles, switchs, routeurs Distinguer et mettre en oeuvre un câblage informatique Identifier les adresses IPv4 Distinguer et mettre en oeuvre un switch et un routeur Définir des protocoles de transport Mettre en oeuvre les principaux services applicatifs.</description>
     </item>
     <item>
       <title>Waa</title>
